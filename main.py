@@ -107,12 +107,10 @@ async def start():
 
                     ✳️ Strict Output Format:
                     Therapist says:
-                    <response from the Therapist tool>
-                    Returns: answer in plain text not dict
+                    <response from the Therapist tool in plain text>
 
                     Chaoser says:
-                    <response from the Chaoser tool>
-                    Returns: answer in plain text not dict
+                    <response from the Chaoser tool in plain text>
 
                     ✅ Formatting Rules:
                     - Output only the above format — no introductions, summaries, or extra comments.
