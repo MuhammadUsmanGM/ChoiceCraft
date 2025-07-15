@@ -1,3 +1,6 @@
+[![ChoiceCraft AI](https://img.shields.io/badge/ChoiceCraft%20AI-Try%20Now-brightgreen?style=for-the-badge&logo=openai&logoColor=white)](https://choicecraft-production.up.railway.app/)
+
+
 # 🧠 ChoiceCraft – Dual-Persona Conversational AI
 
 **ChoiceCraft** is an OpenAI-powered AI assistant that responds to your input with two distinct personas:
